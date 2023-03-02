@@ -9,7 +9,7 @@
       "kind": "git",
       "repository":"https://gitea.lan/jhoeller/archpro-vcpkg-registry.git/",
       "packages": [ "assimp", "tiledb", "itk", "cuda", "cudnn", "loki", "structuresdk", "libigl" ],
-      "baseline": "6a5fa416b528ce6d77e75b36151f9f8fa871143b"
+      "baseline": "34f074b8069dcd8b67b1d044caa5b0ced756145d"
     }
   ]
 }
