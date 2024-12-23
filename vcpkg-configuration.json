@@ -2,14 +2,14 @@
   "default-registry": {
     "kind": "git",
     "repository": "https://github.com/microsoft/vcpkg",
-    "baseline": "a42af01b72c28a8e1d7b48107b33e4f286a55ef6"
+    "baseline": "b2cb0da531c2f1f740045bfe7c4dac59f0b2b69c"
   },
   "registries": [
     {
       "kind": "git",
       "repository":"https://gitea.lan/jhoeller/archpro-vcpkg-registry.git/",
       "packages": [ "assimp", "tiledb", "itk", "cuda", "cudnn", "loki", "structuresdk", "libigl", "spout2" ],
-      "baseline": "2b808e3f928ba246926c2f7ac5671f98ffdfec10"
+      "baseline": "33f9fd3f80be796dcf0e3d41b787c2cb89f3086a"
     }
   ]
 }
